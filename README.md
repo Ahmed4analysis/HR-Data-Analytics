@@ -1,4 +1,16 @@
 # HR-Data-Analytics
+### Table of Content
+- [Brief Description](#Brief-Description)
+- [Project Overview](#Project-Overview)
+- [Data Sources](#Data-Sources)
+- [Tools](#Tools)
+- [Data cleaning/preparation](#Data-cleaning/preparation)
+- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+- [Results/Findings](#Results/Findings)
+- [Recommendations](#Recommendations)
+- [Refrences](#Refrences)
+
+### Brief Description
 Comprehensive HR data analysis: cleaning, EDA, statistical insights, and interactive dashboard. Tools: SQL, Python, Power BI, Tableau, and Excel. Graduation project for DEPI. #DataAnalytics #HR #Dashboard
 ### Project Overview
 This project is a detailed exploration of HR datasets aimed at uncovering actionable insights to enhance human resource management practices, encompassing the entire data analysis lifecycle, from data cleaning and preprocessing to exploratory data analysis (EDA), insight generation, and the creation of an interactive dashboard.
@@ -10,7 +22,7 @@ HR data: the primary datasets used for this analysis are "Employee.csv" and "Per
 - Power BI
 - Tableau
 - Excel
-### Data cleaning/preparation 
+### Data cleaning/preparation
 in the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection
 2. Handling missing values
@@ -30,4 +42,7 @@ EDA involves exploring HR data to answer key questions, such as:
 11.	What is the relationship between experience level and employee productivity?
 ### Results/Findings
 ------
-### 
+### Recommendations 
+----
+### Refrences 
+------
