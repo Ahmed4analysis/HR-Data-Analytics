@@ -4,8 +4,8 @@
 - [Project Overview](#Project-Overview)
 - [Data Sources](#Data-Sources)
 - [Tools](#Tools)
-- [Data cleaning/preparation](#Data-cleaning-preparation)
-- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+- [Data cleaning and preparation](#Data-cleaning-and-preparation)
+- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis)
 - [Results/Findings](#Results-Findings)
 - [Recommendations](#Recommendations)
 - [Refrences](#Refrences)
@@ -22,12 +22,12 @@ HR data: the primary datasets used for this analysis are "Employee.csv" and "Per
 - Power BI
 - Tableau
 - Excel
-### Data cleaning/preparation
+### Data cleaning and preparation
 in the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection
 2. Handling missing values
 3. Data cleaning and formatting
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 EDA involves exploring HR data to answer key questions, such as:
 1.	What is the distribution of employees by gender, and age?
 2.	What is Salary distribution by job role?
