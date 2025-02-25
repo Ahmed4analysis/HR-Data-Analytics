@@ -4,9 +4,9 @@
 - [Project Overview](#Project-Overview)
 - [Data Sources](#Data-Sources)
 - [Tools](#Tools)
-- [Data cleaning/preparation](#Data-cleaning/preparation)
+- [Data cleaning/preparation](#Data-cleaning-preparation)
 - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
-- [Results/Findings](#Results/Findings)
+- [Results/Findings](#Results-Findings)
 - [Recommendations](#Recommendations)
 - [Refrences](#Refrences)
 
