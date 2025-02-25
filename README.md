@@ -4,7 +4,7 @@
 - [Project Overview](#Project-Overview)
 - [Data Sources](#Data-Sources)
 - [Tools](#Tools)
-- [Data cleaning and preparation](#Data-cleaning-and-preparation)
+- [Data cleaning/preparation](#Data-cleaning-and-preparation)
 - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis)
 - [Results/Findings](#Results-Findings)
 - [Recommendations](#Recommendations)
@@ -40,7 +40,7 @@ EDA involves exploring HR data to answer key questions, such as:
 9.	How do years of work in the company correlate with the likelihood of attaining the managerial positions?
 10.	What is the impact of company culture on the turnover rate?
 11.	What is the relationship between experience level and employee productivity?
-### Results/Findings
+### Results Findings
 ------
 ### Recommendations 
 ----
