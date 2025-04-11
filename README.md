@@ -44,8 +44,4 @@ EDA involves exploring HR data to answer key questions, such as:
 13.	Is there a significant association between gender and job role distribution within the company?
 
 ### Results Findings
-------
-### Recommendations 
-----
-### References 
-------
+You can find all the insights in the uploaded files
